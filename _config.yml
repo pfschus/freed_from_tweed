@@ -1,1 +1,12 @@
-theme: jekyll-theme-tactile
+title: GitHub pages course
+author: pfschus
+email: patricia.schuster@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Here is my practice website for learning github pages.
+theme: minima
+
+# social links
+twitter_username: pfschus # DO NOT include the @ character, or else the build will fail!
+github_username:  pfschus # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
