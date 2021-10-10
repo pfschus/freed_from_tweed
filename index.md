@@ -1,5 +1,3 @@
-# Freed From Tweed
-
 Creator: Patricia Schuster  
 Co-host: Zack Beauvais
 
