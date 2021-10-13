@@ -3,45 +3,35 @@ title: "Episode 2: Brainstorming Career Paths"
 date: 2021-10-10
 ---
 
-Content for episode 2 goes here. 
+## Introduction
 
-Welcome to Freed From Tweed- I’m your host Patricia Schuster, here with my co-host Zack Beauvais. How are you doing Zack? 
+The goal of this series is to help you be an active participant in your career and maybe do something beyond the path set in front of you based simply on the degree you have earned. In this episode we walk you through a methodology for breaking down your existing skills and values and help you brainstorm possible jobs or careers that you are qualified for and interested in. 
 
-The goal of this series is to help you be an active participant in your career and 
+Remember- you are a unique individual. It's common for people to adopt a role model and then strive to mimic that person in every way, and I see this quite often with PhD students who idolize their academic advisers. It's good to respect your adviser and want to learn from them, trying to emulate them exactly is selling yourself short. You bring a unique set of experiences that makes you valuable beyond just your adviser's research group, and today we will talk about recognizing your individual strengths that set you apart from the people around you. 
 
-Identify your skills and values; brainstorm possible jobs/careers
-
-We are going to summarize this discussion in a blog entry on our website at FreedFromTweed.com, so you may want to follow along with that because we are going to describe a few exercises that are visual. 
-
-Today we are going to talk about the brainstorming stage, where you are going to think through your skills and values and come up with a list of jobs or careers that you want to learn about.
+What are the end goals of today's episode?  
+* I want you to be able to clearly articulate your skills in a few categories: technical, business, leadership  
+* You should be able to clearly articulate your personal values, and rank them as high to low priority  
+* You should be able to brainstorm a handful of possible career paths or professional roles that you are interested in and would be good at, in 3 categories: most direct path, a slight diversion, and a significant change.  
  
-Something that I feel is very important is recognizing and developing your own identify as a unique individual. It's easy to adopt a role model and strive to mimic that person in every way, and I see that a lot with grad students taking on the identify of their PhD advisers. But in reality, each student is bringing with them a unique set of experiences that makes them 1) very valuable beyond just their professor's personality, and 2) possibly not good at mimicking their professor's personality.
+## Articulating your skills 
  
-It is good to have some things in common with your adviser, research group and department because you want to feel like you belong there and it is worthwhile for you to be there, but we should also recognize that there are going to be differences, and those differences are not a bad thing.
- 
-Today we will talk through some things you can do to help you recognize what skills you have, what your values and priorities are, and what you bring to the table. Most of us don't have the self awareness to articulate these things already, so we will use a few resources and exercises.
- 
------------------------------------------------
-Caveat: This conversation is going to be focused on students graduating, especially grad students, but this whole discussion applies to anyone who is looking to switch jobs or careers.
-OVERVIEW ---------------------------------------------
-Right now we are just working on doing some brainstorming on our own. In the next episode we will work on gathering information from other people, but today is about self assessments.
- 
-What is the end goal of today's episode?
-I want you to be able to clearly articulate your skills in a few categories: technical, business, leadership
-You should be able to clearly articulate your personal values, and rank them as high to low priority
-You should be able to brainstorm a handful of possible career paths or professional roles that you are interested in and would be good at, in 3 categories: most direct path, a slight diversion, and a significant change.
- 
-SKILLS ------------------------------------
 The first thing we are going to discuss is your existing skillset. It can be hard to recognize our own skillset and compare ourselves to the people around us, so I have a framework you can follow to make a comprehensive list.
  
-First of all, let's discuss categories of skills. Generally, we have two main categories:
-Technical
-Non-technical- like business, leadership, social skills
-That is usually pretty intuitive to understand, so I don't feel that I need to explain those.
+First of all, let's discuss categories of skills. Generally, we have two main categories:  
+* Technical  
+* Non-technical: business, leadership, social skills, etc. 
  
-Another way of separating skills is by subject matter
-Specialized- pertaining to a specific field of study or a specific industry
-Example 1, technical: I studied neutron detectors in my PhD, and that technology was pretty specialized and mostly applicable to nuclear engineering or national security applications
+Another way of separating skills is by subject matter  
+* Specialized- pertaining to a specific field of study or a specific industry
+* Transferrable- skills that you can use across many fields. 
+
+Now draw a "skills matrix" with two columns and two rows: 
+
+![Skills matrix](skills_matrix_00.jpg)
+
+
+* Example 1, technical: I studied neutron detectors in my PhD, and that technology was pretty specialized and mostly applicable to nuclear engineering or national security applications
 Example 2, non-technical: I managed the neutron generator laboratory space at a national lab. That involved keeping up on the permits and maintenance for the equipment, working with radiation dosimetry people to approve the space.
 Transferrable 1- general skills that you can use across many fields
 Example 1, technical: But part of my work with neutron detectors was doing digital signal pulse processing, and that can be applied to any field where you are analyzing sensor signals. So even though I studied neutron detector output, I could very quickly get up to speed on data coming from other types of sensors. So I could market that work experience to a vast number of technical fields
