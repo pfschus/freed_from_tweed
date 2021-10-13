@@ -29,6 +29,12 @@ Another way of separating skills is by subject matter
 Now draw a "skills matrix" with two columns and two rows: 
 
 ![Skills matrix](/docs/assets/images/skills_matrix_00.jpg)
+![Skills matrix](../docs/assets/images/skills_matrix_00.jpg)
+![Skills matrix](/../docs/assets/images/skills_matrix_00.jpg)
+![Skills matrix](img/skills_matrix_00.jpg)
+![Skills matrix](/img/skills_matrix_00.jpg)
+![Skills matrix](/docs/assets/images/skills_matrix_00.jpg)
+
 
 * Example 1, technical: I studied neutron detectors in my PhD, and that technology was pretty specialized and mostly applicable to nuclear engineering or national security applications
 Example 2, non-technical: I managed the neutron generator laboratory space at a national lab. That involved keeping up on the permits and maintenance for the equipment, working with radiation dosimetry people to approve the space.
