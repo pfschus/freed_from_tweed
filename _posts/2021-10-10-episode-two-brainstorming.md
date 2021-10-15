@@ -24,156 +24,63 @@ First of all, let's discuss categories of skills. Generally, we have two main ca
  
 Another way of separating skills is by subject matter  
 * Specialized- pertaining to a specific field of study or a specific industry
-* Transferrable- skills that you can use across many fields. 
+* Transferable- skills that you can use across many fields. 
 
 Now draw a "skills matrix" with two columns and two rows: 
 
 ![Skills matrix](/freed_from_tweed/docs/assets/images/skills_matrix_00.jpg)  
-![Skills matrix](../freed_from_tweed/docs/assets/images/skills_matrix_00.jpg)  
-![Skills matrix](/../docs/assets/images/skills_matrix_00.jpg)  
-![Skills matrix](/freed_from_tweed/img/skills_matrix_00.jpg)  
-![Skills matrix](/freed_from_tweed/img/skills_matrix_00.jpg)  
+
+I will fill this out for the experience I had during my PhD program of working in a neutron generator facility and doing research on neutron detectors. I am going to break up all of the different activities I had into the four categories. 
+
+![Skills matrix](/freed_from_tweed/docs/assets/images/skills_matrix_01.jpg)  
+
+Now I will go back and try to break those activities down a bit further into specific skills. If you want to get a nice list of resume skills, you can look around online. [Here is an article from indeed](https://www.indeed.com/career-advice/resumes-cover-letters/technical-skills) with a lot of examples. Do your best to include as much detail as you can. 
+
+![Skills matrix](/freed_from_tweed/docs/assets/images/skills_matrix_02.jpg)  
+
+Now I have a skills matrix for one experience. But I did a lot of other things in grad school and elsewhere in my life that will be useful in my career. So I will make a skills matrix for lots of different experiences:  
+* Research in neutron detectors  
+* Classes in public policy  
+* Piano teacher for the girls down the street  
+* Study abroad in Shanghai during undergrad  
+
+Some of these may seem unrelated or too long ago, but at this point I am just trying to document everything. All of these experiences are useful and relevant, and you never know when you will stumble on an opportunity that is relevant to something you did a while back, that is no longer listed on your resume. I may find a job posting that I am interested in that requires frequent travel to a customer in Asia, and then I would want to showcase my study abroad experience, which would probably give me an edge over other applicants.  
+
+You can organize these skills matrices in a few different ways. I like to open a powerpoint presentation and make one slide per experience. Zack wrote his on a piece of paper:
+
+![Skills matrix](/freed_from_tweed/docs/assets/images/skills_matrix_zack.jpg) 
+ 
+In the end, what are you going to use this matrix for?  
+* Your task will be to market yourself for a job. You need to be able to explain objectively why you should be hired for this role, and back that up with evidence and examples.  
+* Each role that you are interested in is going to ask for different skills. If you have all of your skills already organized and matched to the relevant experience, then you can quickly and coherently put together a targeted resume that is relevant to each position. (We will talk more about this in a future episode about applying for jobs. For now, just use this as a brain dump.)  
+
+Be generous with yourself, include any little thing. Have you ever reviewed your lab mate's paper? Include that-- you have reviewed technical writing and provided internal feedback on a technical document. I think you will find it empowering to recognize that you have a lot of valuable experiences and transferrable skills!
+
+## Core competencies 
+ 
+Core competencies are kind of a category within skills, and they are often personality traits that you already have by nature. To give you some examples, I found [a great list at 123test.com] (https://www.123test.com/competencies-list/). Here are a few examples they give:  
+* Attention to detail  
+* Independent learning  
+* Financial awareness  
+* Entrepeneurship  
+* Communication skills  
+* Customer-oriented  
+* Adaptability  
+* Results-oriented  
+* Data-driven  
+* Critical thinking  
+* Strategic thinking  
+* Negotiating  
+* Planning and organizing  
+
+This website also has a table farther down that gives examples of how these core competencies are useful in various careers, which can help you understand how these are relevant to your job search. 
+
+These competencies set you apart from your peers and you want to be aware of your core competencies and play them up in your career search. This is another area where it can be hard to identify your own core competencies, so you can rely on people who know you well to help you. Think about other people describe you, or what role you often take in a group settings. You can even show your friends or peers a list of core competencies and ask them which ones make them think of you. 
+
+One resource for identifying your core competencies is the [Clifton Strengths Finder](https://store.gallup.com/p/en-us/10108/top-5-cliftonstrengths). This is an online test that you take (it costs $20 at the time of this writing) in which you will answer 
 
 
-* Example 1, technical: I studied neutron detectors in my PhD, and that technology was pretty specialized and mostly applicable to nuclear engineering or national security applications
-Example 2, non-technical: I managed the neutron generator laboratory space at a national lab. That involved keeping up on the permits and maintenance for the equipment, working with radiation dosimetry people to approve the space.
-Transferrable 1- general skills that you can use across many fields
-Example 1, technical: But part of my work with neutron detectors was doing digital signal pulse processing, and that can be applied to any field where you are analyzing sensor signals. So even though I studied neutron detector output, I could very quickly get up to speed on data coming from other types of sensors. So I could market that work experience to a vast number of technical fields
-Example 2, non-technical: As manager of the neutron generator lab, I had to coordinate time slots for all of the users, including over the weekend. That is a strong business skill, the prioritization, communication, scheduling, on call stuff, that many companies need help with so they can best utilize their resources. Also, I came up with our scheduling method myself from scratch, which shows something beyond a skill: a core competency. We will talk about core competencies in more detail in a minute.
- 
-So how can I organize all of the skills I have from this one experience of running a neutron generator laboratory and studying neutron detectors?
- 
-Create a 2x2 matrix.
- 
-Technical
-Business
-Specialized
- 
- 
-Transferrable
- 
- 
-
-Draw a grid with two rows and two columns
-Label the columns: Technical skills, business skills
-Label the rows: Transferrable, specialized
- 
-I am going to copy in the things I already mentioned from my neutron generator work in my matrix. Keep them short and concise. Split your experiences up into specific things.
- 
-Title: Neutron generator lab work
- 
-Technical
-Business
-Specialized
-Neutron detectors- how they work, how to operate them
-How to use a neutron generator to characterize a neutron detector
-Managed a neutron generator lab space at a national laboratory
-Kept permits and equipment maintenance current
-Worked with radiation dosimetry people to approve the space
-Transferrable
-Digital signal pulse processing
-Analyzing sensor signals
-Coordinate scheduling for laboratory users
-Prioritize projects, communicate with users, coordinate weekend on call
-Developed the scheduling system myself
-
- 
-Right now it is more of an experiences matrix. We want to strip it down a little more to name the specific skills that you are utilizing.
- 
-(RESOURCE NEEDED)- need an online research with a long list of technical and business skills
-Title: Neutron generator lab work, skills in red
-Search for “examples of resume skills”--- Indeed has a lot of nice articles with examples
-https://www.indeed.com/career-advice/resumes-cover-letters/technical-skills
-	Programming languages
-	Software design: Coding, debugging, test-driven development, object-oriented
-	Productivity software applications: Salesforce, Jira, Zoom, Slack
-	Project management: budget planning, risk management, task management
-	Product management: Agile methodology, user experience design, product roadmaps
-
- 
-Technical
-Business
-Specialized
-Neutron detectors- how they work, how to operate them, DT, DD, model numbers
-How to use a neutron generator to characterize a neutron detector, scintillator detectors, photomultiplers, high voltage power source, again lots of specific information
-Managed a neutron generator lab space at a national laboratory- user facility, national lab
-Kept permits and equipment maintenance current- regulation, scheduling, responsibility, dependable
-Worked with radiation dosimetry people to approve the space- internal collaboration, following safety protocol, safety culture
-Transferrable
-Digital signal pulse processing: MATLAB, python, C++ data acquisition, binary file parsing
-Analyzing sensor signals, sensor characterization, anomaly detection, debugging and recovery, correcting for environmental effects
-Coordinate scheduling for laboratory users- scheduling, coordination, managing expectations
-Prioritize projects, communicate with users, coordinate weekend on call- communication, coordination, prioritization
-Developed the scheduling system myself- (core competency), organized, fair, planning, logistics
-
- 
-So now we have a skills matrix for one experience. But I did lots of other things in grad school and elsewhere in my life that are applicable to my skills. So I am going to make a skills matrix for lots of different experiences:
-Research in neutron detectors
-Classes in national security public policy
-Piano teacher for the girls down the street
-Shows I can design a curriculum, individualize it to the student, juggle many different responsibilities
-Study abroad in Shanghai during undergrad
-International travel experience, international collaboration, specific knowledge of Chinese language and culture.
- 
-It's very unlikely that another student in my class has the exact same list of experiences. It's just not going to happen. All of these experiences are useful and relevant, even though some are far away from my PhD work, like the piano teacher.
- 
-You're going to make a skills matrix for each of these experiences. So you could organize it as a separate sheet in an excel document, or open a powerpoint and make a separate slide for each experience, or just put a bunch of tables in a word document. I will put an example template on the website for this.
-Depending on how broad you want to be, you could just pick three different main experiences in your life, like maybe your PhD research, a recent internship, and a leadership position you have, or you could go on and on and have more than 20 different experiences that you break down.
-It doesn't matter so much right now how you organize it, you're just trying to get as much down on the page as you can. You will come back through later and sift through it.
- 
-In the end, what are you going to use this matrix for?
-Your task will be to market yourself for a job, imagine you are marketing yourself like a product. You need to be able to explain objectively why you should be hired for this role, and back that up with evidence and examples.
-Each role that you are interested in is going to ask for different skills. If you have all of your skills already organized and matched to the relevant experience, then you can quickly and coherently put together a targeted resume that is relevant to each position.
-We will talk more about this in a future episode about applying for jobs. For now, just use this as a brain dump.
-Be generous with yourself, include any little thing. Have you ever reviewed your lab mate's paper? Include that, you have reviewed technical writing, provided internal feedback on a technical document.
- 
-I want to talk next about core competencies but before we do, Zack do you have anything you want to add about the skills matrix?
- 
-Zack's thoughts: Specialized non-technical
-The hardest to pick up
-Employers don't often value them
-You'll pick it up on the job
-You might not have anything here
- 
-Some will be harder to populate than others.
-Start browsing job descriptions to get an idea. If there are skills or experiences listed in the job description, thing through your personal history, is there anything you missed that is relevant? Add it to your lists.
- 
-Do a few iterations on it. Start abstract and then get specific.
-You have a lot more in your experiences than you probably think you do
-Break it down by experience
- 
-It can be really empowering to recognize your transferrable skills. I have a lot of friends who have been in their jobs for a while, like more than five years, and they tell me things like, "I'm bored in my job, I'd like to look for something else, but who else is going to hire me to do photoresist development for lithography systems??" They think that they are now limited to opportunities that make use of their specialized skills, but actually they are competitive for lots of roles doing lots of different things but using your more generalized skills.
- 
-CORE COMPETENCIES -------------------------------------------------------
-What is a core competency vs a skill?
- 
-Personal core competencies- these are sometimes personality traits that you have by nature just based on who you are, but some are learned
-Google the phase "list of personal core competencies"- I found a great list at 123test.com https://www.123test.com/competencies-list/
-Attention to detail
-Independent learning
-Financial awareness
-Entrepeneurship
-Communication skills
-Customer-oriented
-Adaptability
-Results-oriented
-Data-driven
-Critical thinking
-Strategic thinking
-Negotiating
-Planning and organizing
-Sets you apart from the people in your class because they may not have the same qualities as you
-Zack anecdote: Think about behavioral interview questions. This is what they are trying to measure.
-We will talk about behavior interview questions in a future episode about what to expect in an interview, but they generally go like this:
-Tell me about a time when….
-You had to collaborate with a difficult partner?
-You knew you were going to miss a deadline?
- 
-Farther down the page on this same website on 123test.com, there is a table that gives more detailed meaning of the competency and an example of a profession in which the competency is important. Here is their first example
-Competency: being observant
-Meaning: noticing and acting on signals given by people, organizations, and society
-Example: You are quick to notice if there is something up with another person
-Example of profession in which this competency is important: Therapist, bodyguard, trendwatcher, manager
+### STOPPED HERE
  
 This brings me to one of my favorite resources, the Clifton Strengths Finder test. This is an online test that you can take, it does cost money, but for me it was definitely worth the cost. Here is how it works:
 You will answer a huge number of questions, like a hundred questions or more, and they are weird questions. Like they will present you with two things that may be conflicting and may not be, and you have to indicate which one you lean more toward
