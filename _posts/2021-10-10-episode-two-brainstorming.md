@@ -80,7 +80,7 @@ This is another area where it can be hard to identify your own core competencies
 
 One resource for identifying your core competencies is the [Clifton Strengths Finder](https://store.gallup.com/p/en-us/10108/top-5-cliftonstrengths). This is an online test that you take (it costs $20 at the time of this writing) in which you will answer a huge number of questions where you have to indicate where you land on a range between two alternatives. For example, click on a line between "I prefer to work alone" and "I prefer to work with other people." It takes about a half hour to get through the questions. At the end of the test, you will get a summary of your top five strengths, which I compare to core competencies. For each strength, you will get a short summary and a detailed summary of what that strength means and how it can be applied in different career paths. 
 
-Here is an example of my top five, when I first took the test in 2017 at the beginning of my post-doc: Individualization, Connectedness, Learner, Arranger, Harmony.
+Here is an example of my top five, when I first took the test in 2017 at the beginning of my post-doc: **Individualization, Connectedness, Learner, Arranger, Harmony.**
 
 As an example of what information you get in the short summary, here is what it said about "individualization": 
 
@@ -89,7 +89,7 @@ As an example of what information you get in the short summary, here is what it 
 * You customize your interaction style for each person  
 * Careers where this can be applied: counseling, supervising, teaching, writing human interest articles, or sales  
 
-I related to this right away, and I find that this test is really good at capturing your individual qualities. And even if you've taken it in the past, it may be worth revisiting it and taking it again. For example, toward the end of my post-doc, I took the test again after I had done a lot of professional development, and my five strengths were: Individualization, Connectedness, Learner, Maximizer (new), Strategic (new). This rang true to me and felt like an accurate evolution in my personal strengths. 
+I related to this right away, and I find that this test is really good at capturing your individual qualities. And even if you've taken it in the past, it may be worth revisiting it and taking it again. For example, toward the end of my post-doc, I took the test again after I had done a lot of professional development, and my five strengths were: **Individualization, Connectedness, Learner, Maximizer (new), Strategic (new)**. This rang true to me and felt like an accurate evolution in my personal strengths. 
 
 ## Values
 
@@ -136,9 +136,9 @@ In addition to your professional values, make sure you think about your personal
 At this point, you have taken the time to map out your skills, your strengths, and your values. You have a general idea of what is important to you in a job, workplace, or career, and you know what you are capable of and good at. Now it's time to start brainstorming what career opportunities are available to you, either immediately with your existing skillset, or with a little bit of training in a new area. 
 
 If we think back to our skills matrices, we want to look for subsets of skills that, when collected together, make up many of the responsibilities in a certain job or career. Then you want to think about environments where you can do that job and stay true to your values. For example, going back to my experience in the neutron generator lab and my values of harmony, collaboration, and teamwork, here are some jobs I can think of:  
-* Experimental researcher at a national laboratory: a direct extension of the work I was already doing... *Most direct path*  
-* Join a startup and help set up their lab spaces: requires organization and individualization, important to build good rapport in a startup, different from my PhD work but I could definitely do it... *Slight diversion*  
-* Organize a science camp for middle schoolers: I have the science background, I've done schedule coordination and worked with kids through my piano teaching, really different from my PhD work but a realistic option... *Strong pivot*    
+* Experimental researcher at a national laboratory: a direct extension of the work I was already doing... **Most direct path**  
+* Join a startup and help set up their lab spaces: requires organization and individualization, important to build good rapport in a startup, different from my PhD work but I could definitely do it... **Slight diversion**  
+* Organize a science camp for middle schoolers: I have the science background, I've done schedule coordination and worked with kids through my piano teaching, really different from my PhD work but a realistic option... **Strong pivot**    
 
 How do you go about coming up with job titles? Here are a few ways:  
 * Look up your old colleagues or graduates of your program on LinkedIn and see what they are doing  
