@@ -171,5 +171,5 @@ These exercises will be time consuming, but remember that this is an investment 
  
 The whole point of this podcast series is to help you be intentional, strategic, and brave in your career. Get out there and see what's possible and then make it happen!
  
-We want to know if you found this helpful, so send us your comments and feedback at freedfromtweed@gmail.com.
+As always, we want to know if you found this helpful, so send us your comments and feedback at freedfromtweed@gmail.com. Bye!
 
