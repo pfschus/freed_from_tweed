@@ -57,7 +57,7 @@ In the end, what are you going to use this matrix for?
 
 Be generous with yourself, include any little thing. Have you ever reviewed your lab mate's paper? Include that-- you have reviewed technical writing and provided internal feedback on a technical document. I think you will find it empowering to recognize that you have a lot of valuable experiences and transferrable skills!
 
-## Core competencies 
+## Recognizing your core competencies 
  
 Core competencies are kind of a category within skills, and they are often personality traits that you already have by nature. To give you some examples, I found [a great list at 123test.com](https://www.123test.com/competencies-list/). Here are a few examples they give:  
 * Attention to detail  
@@ -91,7 +91,7 @@ As an example of what information you get in the short summary, here is what it 
 
 I related to this right away, and I find that this test is really good at capturing your individual qualities. And even if you've taken it in the past, it may be worth revisiting it and taking it again. For example, toward the end of my post-doc, I took the test again after I had done a lot of professional development, and my five strengths were: **Individualization, Connectedness, Learner, Maximizer (new), Strategic (new)**. This rang true to me and felt like an accurate evolution in my personal strengths. 
 
-## Values
+## Naming your values
 
 In addition to recognizing your skills, you want to recognize what is important to you. Your values are the things that you care about personally and feel are important in your life and in your career. It can be almost anything, and you will probably have a ranking system within your list of values of which you prioritize over others. This list will likely change over the years as your life changes. Here is a list of examples:  
 
@@ -125,20 +125,29 @@ Here is the exercise:
     
 Once you have some logs, you can start looking for trends. What was really engaging or enjoyable for you? What do you want to do more or less of? It may turn out that your morning chat with your colleagues in the cafe is really enjoyable for you, and you also enjoy helping your labmates plan their work, and that may mean that you should rank collaboration and interaction highly in your values. It may also mean that you value harmony, and you want to find a workplace where people get along, rather than a competitive or toxic environment.  
 
-Remember the old adage, "you don't know what you have until it's gone." If there are parts of your current job that you really enjoy, make sure that you recognize them and include them in your values. 
+And don't forget the old adage, "you don't know what you have until it's gone." If there are parts of your current job that you really enjoy, make sure that you recognize them and include them in your values. 
 
 In addition to your professional values, make sure you think about your personal values. That might be a location, proximity to family or friends, playing soccer a few nights a week, etc. I had one friend who loved going to hockey games, so he was ronly considering jobs in cities that have an NHL team. Your values will evolve throughout your life, so they are not set in stone. So just focus on what your values and priorities are right now and for the next 1-3 years. Remember: if your values change, you can always change jobs in the future.
 
-## Identifying jobs
-
-(at 38:00)
+## Identifying possible jobs
  
 At this point, you have taken the time to map out your skills, your strengths, and your values. You have a general idea of what is important to you in a job, workplace, or career, and you know what you are capable of and good at. Now it's time to start brainstorming what career opportunities are available to you, either immediately with your existing skillset, or with a little bit of training in a new area. 
 
 If we think back to our skills matrices, we want to look for subsets of skills that, when collected together, make up many of the responsibilities in a certain job or career. Then you want to think about environments where you can do that job and stay true to your values. For example, going back to my experience in the neutron generator lab and my values of harmony, collaboration, and teamwork, here are some jobs I can think of:  
-* Experimental researcher at a national laboratory: a direct extension of the work I was already doing... **Most direct path**  
-* Join a startup and help set up their lab spaces: requires organization and individualization, important to build good rapport in a startup, different from my PhD work but I could definitely do it... **Slight diversion**  
-* Organize a science camp for middle schoolers: I have the science background, I've done schedule coordination and worked with kids through my piano teaching, really different from my PhD work but a realistic option... **Strong pivot**    
+* Experimental researcher at a national laboratory  
+    * A direct extension of the work I was already doing  
+    * The most "expected" role for me to take, based on my degree program  
+    * I will call this the **most direct path**  
+* Join a startup and help set up their lab spaces
+    * Requires organization and individualization, which are some of my core competencies  
+    * Important to build good rapport in a startup, which is one of my top values  
+    * Different from my PhD work but I could definitely do it  
+    * I call this a **slight diversion**  
+* Organize a science camp for middle schoolers  
+    * I have the science background  
+    * I've done schedule coordination and worked with kids through my piano teaching  
+    * Really different from my PhD work but a realistic option, especially if I needed a break from research or wanted to move somewhere without other career options  
+    * This would be a **strong pivot**    
 
 How do you go about coming up with job titles? Here are a few ways:  
 * Look up your old colleagues or graduates of your program on LinkedIn and see what they are doing  
