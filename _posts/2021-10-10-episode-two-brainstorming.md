@@ -149,18 +149,25 @@ If we think back to our skills matrices, we want to look for subsets of skills t
     * Really different from my PhD work but a realistic option, especially if I needed a break from research or wanted to move somewhere without other career options  
     * This would be a **strong pivot**    
 
-How do you go about coming up with job titles? Here are a few ways:  
+Spend some time brainstorming possible job titles. Here are a few ways for coming up with options:  
 * Look up your old colleagues or graduates of your program on LinkedIn and see what they are doing  
 * Make a bubble diagram, starting with main categories of jobs and then splitting them off into other fields or roles  
 * Google some job responsibilities you are interested in, and look for job titles that include that in their posting  
+* Instead of focusing on job titles, you may want to focus on industries or companies you are interested in, if that is easier, then investigate available roles within those  
 
 ## Conclusion
 
-These are all useful exercises, even if you already have a goal or career you are aiming for. Most people have never taken the time to articulate their strengths, values, and priorities, and you might find that the job you were aiming for doesn't align with what you need or want. It's really valuable to take the time to think through all of these things, especially if you can start early and give it some time. And remember to trust your gut in the process. 
+At the end of all of these exercises, you should have formulated a few summaries:  
+* A skills matrix for each of your main experiences    
+* Your top strengths and core competencies  
+* Your personal and professional values, ranked by priority  
+* A list of potential job titles, industries, or companies you are interested in  
+
+These are all useful exercises, even if you already had a goal or career you are aiming for. Most people have never taken the time to articulate their strengths, values, and priorities, and you might find that the job you were previously aiming for doesn't actually align with what you need or want. It's really valuable to take the time to think through all of these things, especially if you can start early and give it some time. And remember to trust your gut in the process. 
  
 What's the next step? The next episode will be focused on gathering information about each of those jobs, and then you can go back and forth between the information you gather, your skills matrix, and your personal values, until you zero in on a handful of roles that you want to pursue.
  
-I recognize that all of these exercises will be time consuming, so remember that this is an investment in your future. If you do the work now to really think through all of these things, it will pay back dividends in the future. So make time for this work. Set aside one evening a week, tell your friends you are busy, get your favorite takeout, and do the work. It's not going to happen for free.
+These exercises will be time consuming, but remember that this is an investment in your future. If you do the work now to really think through all of these things, it will pay back dividends in the future. So make time for this work. Set aside one evening a week, tell your friends you are busy, get your favorite takeout, and do the work. It's not going to happen for free.
  
 The whole point of this podcast series is to help you be intentional, strategic, and brave in your career. Get out there and see what's possible and then make it happen!
  
